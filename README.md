@@ -18,11 +18,11 @@
 
 ## Screenshots
 
-![Login Page](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/login%20ss.png)
+![Login Page](https://github.com/KishoreDT/Digiballot/blob/main/Images/Admin.png)
 
-![Admin Page](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/admin%20ss.png)
+![Admin Page](https://github.com/KishoreDT/Digiballot/blob/main/Images/Admin.png)
 
-![Voter Page](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/index%20ss.png)
+![User Page](https://github.com/KishoreDT/Digiballot/blob/main/Images/User.png)
 
 ## Installation
 
